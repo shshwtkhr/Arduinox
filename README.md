@@ -1,2 +1,3 @@
 # Arduinox
-A maze solving code writing competition in BITS pilani, pilani campus
+A maze solving code writing competition held in BITS pilani, pilani campus.
+This bot uses 3 ultrasonic sensors, 2 dc motors, 2 l293d motor drivers among other basic materials required to build a general maze-solving bot.
