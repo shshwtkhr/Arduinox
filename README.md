@@ -3,7 +3,7 @@
 <p>This bot uses an Arduino Uno microcontroller, 3 ultrasonic sensors, 2 dc motors, 2 l293d motor drivers among other basic materials required to build a general maze-solving bot.</p>
 <p>Video of the maze solving bot-</p>
 https://www.youtube.com/watch?v=dGZhKkRfbiM
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dGZhKkRfbiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 <br>
 <p>
